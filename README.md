@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VoDuyLongNN
+- 👋 Hi, I’m Vo Duy Long
 - 👀 I’m interested in Frond End, Data Science
 - 🌱 I’m currently learning QNU
 - 💞️ I’m looking to collaborate on ...
